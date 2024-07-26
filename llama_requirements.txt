@@ -1,0 +1,9 @@
+jsonlines==2.0.0
+numpy==1.25.2
+scipy==1.11.1
+pandas==2.0.3
+torch==2.1.0
+datasets==2.12.0
+transformers==4.34.1
+trl==0.7.1
+peft==0.5.0
